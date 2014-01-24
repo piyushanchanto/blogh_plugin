@@ -7,9 +7,9 @@ require "blorgh/version"
 Gem::Specification.new do |s|
   s.name        = "blorgh"
   s.version     = Blorgh::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
+  s.authors     = ["Ammy Rock"]
+  s.email       = ["awasthi.piyush8@gmail.com"]
+  s.homepage    = "https://github.com/piyushanchanto/blogh_plugin"
   s.summary     = "TODO: Summary of Blorgh."
   s.description = "TODO: Description of Blorgh."
 
