@@ -1,26 +1,14 @@
-** This is New Plugin For Rails**
+**This is gem file collection**
 ---------------------------------
 
 ```shell
-This plugin is design for rails.
+Here You can find out all of the gems.
 ```
 
-**Install**
------------
-
-```shell
-To Install This Plugin Follow Following Steps
-```
 
 ***
 
-**issue**
----------
-
-```shell
-Issue Related to this gem can be solve here
-```
-
 ***
+
 
 Thank You
